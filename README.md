@@ -1,5 +1,4 @@
 # Projects
-Projects of Workforce, Customer Base, and BI Analyses for informed decision making.
 
 
 Welcome to my github portfolio! This repository contains different projects I created using publicly available datasets.
